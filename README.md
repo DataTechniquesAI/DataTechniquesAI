@@ -1,9 +1,10 @@
+
 <div align="center">
 
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=220&section=header&text=Hi%20There,%20I'm%20Sumia%20👋&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
 
-  <!-- Corrected Typing Effect -->
+  <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=F75C03&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+BI+Specialist;Machine+Learning+Explorer;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
   </a>
@@ -19,10 +20,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DataTechniquesAI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DataTechniquesAI&theme=flat&no-frame=true&column=6&margin-w=10" width="100%" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -78,24 +79,6 @@ Git & Version   [██████████████████░░░
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
 </p>
-
----
-
-## 🧱 3D Contribution Activity Graph
-
-<div align="center">
-  <img src="https://github-profile-3d-contrib.puzzle33.com/DataTechniquesAI/profile-green-animate.svg" width="100%" alt="3D Contribution Graph" />
-</div>
-
-<br/>
-
-## 🐍 Contribution Graph Eating Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DataTechniquesAI/DataTechniquesAI/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DataTechniquesAI/DataTechniquesAI/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DataTechniquesAI/DataTechniquesAI/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
