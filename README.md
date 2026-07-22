@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <!-- Header Banner -->
@@ -16,6 +15,14 @@
   <img src="https://img.shields.io/github/followers/DataTechniquesAI?label=Followers&style=flat-square&color=181717" />
   <img src="https://img.shields.io/github/stars/DataTechniquesAI?label=Stars&style=flat-square&color=181717" />
   
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DataTechniquesAI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="100%" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -134,7 +141,3 @@ Git & Version   [██████████████████░░░
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=120&section=footer" width="100%" />
 </div>
-
-
-
-
