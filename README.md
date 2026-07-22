@@ -1,5 +1,5 @@
 
-div align="center">
+<div align="center">
 
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=220&section=header&text=Hi%20There,%20I'm%20Sumia%20👋&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
@@ -134,3 +134,7 @@ Git & Version   [██████████████████░░░
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=120&section=footer" width="100%" />
 </div>
+
+
+
+
