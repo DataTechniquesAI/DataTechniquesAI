@@ -4,7 +4,7 @@
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=220&section=header&text=Hi%20There,%20I'm%20Sumia%20👋&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
 
-  <!-- Typing Effect -->
+  <!-- Dynamic Typing Effect -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=F75C03&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+BI+Specialist;Machine+Learning+Explorer;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
   </a>
@@ -82,6 +82,26 @@ Git & Version   [██████████████████░░░
 
 ---
 
+## 🧱 3D Contribution Activity Graph
+
+<div align="center">
+  <img src="https://github-profile-3d-contrib.puzzle33.com/DataTechniquesAI/profile-green-animate.svg" width="100%" alt="3D Contribution Graph" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Graph Eating Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DataTechniquesAI/DataTechniquesAI/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DataTechniquesAI/DataTechniquesAI/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DataTechniquesAI/DataTechniquesAI/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
+
 ## 📌 Featured Projects Showcase
 
 ### 📊 1. Real Estate Data Analytics
@@ -124,3 +144,5 @@ Git & Version   [██████████████████░░░
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=120&section=footer" width="100%" />
 </div>
+
+
