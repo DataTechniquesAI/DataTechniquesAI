@@ -1,3 +1,6 @@
+
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There!%20I'm%20Sumi%20👋&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20|%20Aspiring%20ML%20%26%20Deep%20Learning%20Engineer&descAlignY=55&descSize=20" width="100%"/>
@@ -9,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssumi-data-analysiss-datatechniqueai)
 [![GitHub followers](https://img.shields.io/github/followers/DataTechniquesAI?label=Follow&style=for-the-badge&color=black)](https://github.com/DataTechniquesAI)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/DbnjKMKsBEs/?igsh=MTFvc3Fjb254OTltZQ==)
 
 </div>
 
@@ -99,7 +103,7 @@ class Sumi:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DataTechniquesAI&theme=radical&no-frame=true&row=1&column=7" />
+<img src="https://trophy.egoist.dev/?username=DataTechniquesAI&theme=radical&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -125,11 +129,30 @@ class Sumi:
 
 ---
 
+### 🗓️ Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/6a5cff/DataTechniquesAI" alt="GitHub Contribution Calendar" width="90%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+> 💬 *"Data will talk to you if you're willing to listen."* — Jim Bergeson
+
+</div>
+
+---
+
 <div align="center">
 
 ### 💌 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssumi-data-analysiss-datatechniqueai)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/DbnjKMKsBEs/?igsh=MTFvc3Fjb254OTltZQ==)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](#)
 
 <img src="https://komarev.com/ghpvc/?username=DataTechniquesAI&color=blueviolet&style=flat" alt="profile views" />
