@@ -82,7 +82,6 @@ class Sumi:
 
 </div>
 
-> 💡 *Pin these repos on your GitHub profile (Customize your pins → select these 4) so they show up exactly like this at the top of your profile.*
 
 ---
 
