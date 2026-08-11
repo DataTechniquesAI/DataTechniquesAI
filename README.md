@@ -145,4 +145,40 @@ Git & Version   [██████████████████░░░
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=120&section=footer" width="100%" />
 </div>
 
+name: Generate Snake
 
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: DataTechniquesAI
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: actions/checkout@v4
+        with:
+          ref: output
+      - name: push
+        run: |
+          rm -rf dist || true
+          mkdir dist
+          cp -r ${{ github.workspace }}/../dist/* dist/ || true
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A
+          git commit -m "update snake" || echo "no changes"
+          git push
