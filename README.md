@@ -1,184 +1,139 @@
-
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=220&section=header&text=Hi%20There,%20I'm%20Sumia%20👋&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There!%20I'm%20Sumi%20👋&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20|%20Aspiring%20ML%20%26%20Deep%20Learning%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-  <!-- Dynamic Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=F75C03&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+BI+Specialist;Machine+Learning+Explorer;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Profile Visitor Counter & Quick Social Badges -->
-  <img src="https://komarev.com/ghpvc/?username=DataTechniquesAI&label=Profile%20Views&color=f75c03&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DataTechniquesAI?label=Followers&style=flat-square&color=181717" />
-  <img src="https://img.shields.io/github/stars/DataTechniquesAI?label=Stars&style=flat-square&color=181717" />
-  
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DataTechniquesAI&theme=flat&no-frame=true&column=6&margin-w=10" width="100%" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🙋‍♀️ About Me
-
-```yaml
-Name: Sumia
-Role: Data Analyst & AI Enthusiast
-Specialization: Data Analytics, Interactive Dashboards, Machine Learning
-Passionate_About: Turning raw, complex datasets into meaningful business stories.
-Current_Focus: Advanced Data Modeling, ML Pipelines, & Automated Workflows
-```
-
-* 🔭 **What I'm working on:** Executing end-to-end data pipelines, ML classification & regression models, and automated business reports.
-* 🎓 **Education & Growth:** Continuously expanding skill sets through intensive bootcamps, hands-on projects, and freelance assignments.
-* ⚡ **Core Strengths:** Problem-solving, clean visual representation, and business domain interpretation.
-
----
-
-## 📊 Skill Proficiency Matrix
-
-```pascal
-Python          [████████████████████░░░] 85% - Pandas, NumPy, Data Cleaning
-Data Viz        [████████████████████░░░] 85% - Seaborn, Matplotlib, Dashboards
-Excel           [██████████████████████░] 90% - Advanced Formulas, Pivot Tables
-Machine Learning [████████████████░░░░░░] 70% - Scikit-Learn, Regression, Classification
-Git & Version   [██████████████████░░░░░] 75% - Version Control, Repo Management
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Python+%2F+SQL+%2F+Power+BI;Turning+Data+Into+Insights+%F0%9F%93%8A;Exploring+Machine+Learning+%26+Deep+Learning;Available+for+Freelance+Projects+on+Fiverr" alt="Typing SVG" />
 
 <br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssumi-data-analysiss-datatechniqueai)
+[![GitHub followers](https://img.shields.io/github/followers/DataTechniquesAI?label=Follow&style=for-the-badge&color=black)](https://github.com/DataTechniquesAI)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](#)
+
+</div>
+
+---
+
+### 🧠 About Me
+
+```python
+class Sumi:
+    def __init__(self):
+        self.role = "Data Analyst | ML & DL Learner"
+        self.location = "Punjab, Pakistan"
+        self.education = "BSCS Student"
+        self.tools = ["Python", "SQL", "Power BI", "Excel"]
+        self.currently_learning = ["Machine Learning", "Deep Learning", "Data Visualization"]
+        self.available_for = "Freelance Data Projects (Fiverr)"
+
+    def say_hi(self):
+        print("Thanks for stopping by — let's turn data into decisions! 🚀")
+```
+
+- 🔭 Currently working on **improving my data visualization & ML skills**
+- 🌱 Learning **Machine Learning & Deep Learning** deeply
+- 💼 Open to **freelance / internship** opportunities in Data Analytics
+- 📊 I turn raw data into clean, actionable insights
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/ssumi-data-analysiss-datatechniqueai)**
+
+---
 
 ### 🛠️ Tech Stack & Tools
 
-#### **Programming & Analytics Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40"/>
-</p>
-
-#### **Data Visualization**
-<p align="left">
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="40"/>
-</p>
-
-#### **Development Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
-</p>
-
----
-
-## 🧱 3D Contribution Activity Graph
-
 <div align="center">
-  <img src="https://github-profile-3d-contrib.puzzle33.com/DataTechniquesAI/profile-green-animate.svg" width="100%" alt="3D Contribution Graph" />
-</div>
 
-<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🐍 Contribution Graph Eating Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DataTechniquesAI/DataTechniquesAI/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DataTechniquesAI/DataTechniquesAI/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DataTechniquesAI/DataTechniquesAI/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
 </div>
 
 ---
 
-## 📌 Featured Projects Showcase
+### 🚀 Featured Projects
 
-### 📊 1. Real Estate Data Analytics
-- **Overview:** In-depth exploratory data analysis and cleaning of property markets to identify real estate pricing trends and investment opportunities.
-- **Tech Stack:** Python, Pandas, Seaborn, Matplotlib.
-- **Key Achievements:** Handled missing values, removed price outliers, and built statistical charts for market demand.
+<div align="center">
 
-### 🤖 2. Machine Learning Assignment Workflows
-- **Overview:** Multi-dataset classification and regression analysis executed using structured machine learning models.
-- **Tech Stack:** Python, Scikit-Learn, Pandas, Jupyter Notebook.
-- **Key Achievements:** Applied feature engineering, data preprocessing, and model evaluation metrics (Accuracy, F1-Score, RMSE).
+<a href="https://github.com/DataTechniquesAI/MY-AI-COURSE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataTechniquesAI&repo=MY-AI-COURSE&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/DataTechniquesAI/AnalystLabAfrica-Intership-Task">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataTechniquesAI&repo=AnalystLabAfrica-Intership-Task&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/DataTechniquesAI/DecodeLab-Data-Analytics-Pipeline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataTechniquesAI&repo=DecodeLab-Data-Analytics-Pipeline&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/DataTechniquesAI/Fullstack-AI-BOOTCAMP-B-10">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataTechniquesAI&repo=Fullstack-AI-BOOTCAMP-B-10&theme=radical&hide_border=true" />
+</a>
+
+</div>
+
+> 💡 *Pin these repos on your GitHub profile (Customize your pins → select these 4) so they show up exactly like this at the top of your profile.*
 
 ---
 
-## 📈 GitHub Performance Insights
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DataTechniquesAI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataTechniquesAI&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=DataTechniquesAI&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DataTechniquesAI&theme=radical&hide_border=true" width="48%"/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Daily Tech Quote" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataTechniquesAI&layout=compact&theme=radical&hide_border=true" width="48%"/>
+
 </div>
 
 ---
 
-## 🌐 Connect & Collaborate
+### 🏆 Trophies
 
-<p align="left">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
-  <a href="https://upwork.com"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" height="40"/></a>
-  <a href="https://fiverr.com"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="40"/></a>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DataTechniquesAI&theme=radical&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DataTechniquesAI/DataTechniquesAI/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DataTechniquesAI&theme=react-dark&hide_border=true" width="90%"/>
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=120&section=footer" width="100%" />
+
+### 💌 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssumi-data-analysiss-datatechniqueai)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](#)
+
+<img src="https://komarev.com/ghpvc/?username=DataTechniquesAI&color=blueviolet&style=flat" alt="profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 </div>
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # daily
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: DataTechniquesAI
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: actions/checkout@v4
-        with:
-          ref: output
-      - name: push
-        run: |
-          rm -rf dist || true
-          mkdir dist
-          cp -r ${{ github.workspace }}/../dist/* dist/ || true
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A
-          git commit -m "update snake" || echo "no changes"
-          git push
