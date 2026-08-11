@@ -20,7 +20,7 @@
 class Sumi:
     def __init__(self):
         self.role = "Data Analyst | ML & DL Learner"
-        self.location = "Punjab, Pakistan"
+        self.location = "Pakistan"
         self.education = "BSCS Student"
         self.tools = ["Python", "SQL", "Power BI", "Excel"]
         self.currently_learning = ["Machine Learning", "Deep Learning", "Data Visualization"]
