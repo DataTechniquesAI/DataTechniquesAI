@@ -1,6 +1,4 @@
 
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There!%20I'm%20Sumi%20👋&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20|%20Aspiring%20ML%20%26%20Deep%20Learning%20Engineer&descAlignY=55&descSize=20" width="100%"/>
@@ -67,21 +65,17 @@ class Sumi:
 
 <div align="center">
 
-<a href="https://github.com/DataTechniquesAI/MY-AI-COURSE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataTechniquesAI&repo=MY-AI-COURSE&theme=radical&hide_border=true" />
-</a>
 <a href="https://github.com/DataTechniquesAI/AnalystLabAfrica-Intership-Task">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataTechniquesAI&repo=AnalystLabAfrica-Intership-Task&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/DataTechniquesAI/DecodeLab-Data-Analytics-Pipeline">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataTechniquesAI&repo=DecodeLab-Data-Analytics-Pipeline&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/DataTechniquesAI/Fullstack-AI-BOOTCAMP-B-10">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataTechniquesAI&repo=Fullstack-AI-BOOTCAMP-B-10&theme=radical&hide_border=true" />
+<a href="https://github.com/DataTechniquesAI/DataTechniquesAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DataTechniquesAI&repo=DataTechniquesAI&theme=radical&hide_border=true" />
 </a>
 
 </div>
-
 
 ---
 
